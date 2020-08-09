@@ -1,4 +1,4 @@
-# Smart Garden Home Assistant ![Logo](https://github.com/promise333-smart-garden/garden_setup/blob/master/logo_small.png)
+# Smart Garden Home Assistant <img src="./res/logo_small.png" alt="drawing" width="25"/>
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ### Web hooks for Google Assistant & Amazon Alexa
 ###### by promise333
